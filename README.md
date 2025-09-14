@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gaurav4hooda
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...python
+- 👀 I’m interested in ...Web Development 
+- 🌱 I’m currently learning ...MERN Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...hoodagaurav884@gmail.com
 
